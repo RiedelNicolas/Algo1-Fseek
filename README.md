@@ -9,7 +9,7 @@ Es la herramienta que nos da el sistema para poder acceder a archivos de forma a
 2. Esta función pertenece a una familia de funciones para manejar accesos aleatorios a archivos, entre las que se encuentran  :  
     * fseek()
     * rewind()
-    * fteel()
+    * ftell()
     * fgetpos()
     * fsetpos()
 
